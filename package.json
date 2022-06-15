@@ -1,0 +1,30 @@
+{
+  "name": "systemic-prometheus",
+  "version": "1.0.0",
+  "description": "Systemic module to integrate Prometheus metrics",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guidesmiths/systemic-prometheus.git"
+  },
+  "keywords": [
+    "prometheus",
+    "systemic",
+    "metrics",
+    "openmetrics"
+  ],
+  "author": "DCSL Guidesmiths",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guidesmiths/systemic-prometheus/issues"
+  },
+  "homepage": "https://github.com/guidesmiths/systemic-prometheus#readme",
+  "devDependencies": {
+    "eslint": "^8.17.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
